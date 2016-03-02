@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cmu-color-lt",
+				"cmu-color-ltmdgray"
+			],
+			[
+				"cmu",
+				"cmu-color-purewhite"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backgourn",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 517,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Laptop/community-ui/app/areas/directory/user/userprofile.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuProfile/modules/_cmuProfileModule.scss",
+		"/Users/Laptop/community-ui/app/areas/directory/inbox/detail/inbox.detail.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuStories/modules/_cmuStoriesModule.scss",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuCollapser/modules/_cmuCollapserModule.scss",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuTextEditor/modules/_cmuTextEditorModule.scss",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuUserbadge/modules/_cmuUserbadgeModule.scss",
+		"/Users/Laptop/community-ui/app/shared/directives/commentform/commentform.html",
+		"/Users/Laptop/community-ui/app/shared/directives/userbadge/userbadge.html",
+		"/Users/Laptop/community-ui/app/areas/stories/detail/stories.detail.html",
+		"/Users/Laptop/community-ui/app/areas/stories/newstory/stories.newstory.html",
+		"/Users/Laptop/community-ui/app/areas/forums/message/forums.message.html",
+		"/Users/Laptop/community-ui/app/shared/directives/texteditor/texteditor.html",
+		"/Users/Laptop/community-ui/app/areas/stories/detail/stories.body.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuButtons/modules/_cmuButtonsModule.scss",
+		"/Users/Laptop/community-ui/app/shared/directives/message/message.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuThread/modules/_cmuThreadModule.scss",
+		"/Users/Laptop/community-ui/app/areas/features/detail/features.detail.html",
+		"/Users/Laptop/community-ui/app/shared/directives/reaction/reaction.html",
+		"/Users/Laptop/community-ui/app/shared/directives/reaction/reaction.js",
+		"/Users/Laptop/community-ui/app/design/community.css",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuStories/modules/_cmuStoriesNewModule.scss",
+		"/Users/Laptop/community-ui/locale/en/stories.json",
+		"/Users/Laptop/community-ui/app/areas/directory/feed/feed.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuDefaults/settings/_cmuDesign.scss",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuTimeline/modules/_cmuTimelineModule.scss",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuFeed/modules/_cmuFeedModule.scss",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuPulse/modules/_cmuPulseModule.scss",
+		"/Users/Laptop/community-ui/app/shared/directives/pulse/pulse.html",
+		"/Users/Laptop/community-ui/app/shared/directives/timeline/timeline.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuDefaults/settings/_cmuColors.scss",
+		"/Users/Laptop/community-ui/app/shared/directives/loadmore/loadmore.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuHints/modules/_cmuHintsModule.scss",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuBanner/modules/_cmuBannerModule.scss",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuDiscussions/modules/_cmuDiscussionsControls.scss",
+		"/Users/Laptop/community-ui/app/shared/directives/announcement/announcement.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuDefaults/settings/_cmuSettings.scss",
+		"/Users/Laptop/community-ui/app/shared/directives/feedcontent/feedcontent.html",
+		"/Users/Laptop/community-ui/assets/sass/cmu/cmuSidebar/modules/_cmuSidebarModule.scss",
+		"/Users/Laptop/community-ui/.sass-cache/b67e6e4d6295e0530704758e75193a864e7e49e7/_cmuButtonsModule.scssc",
+		"/Users/Laptop/community-ui/app/shared/directives/pagescroll/pagescroll.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets",
+			"/Users/Laptop/community-ui/app",
+			"/Users/Laptop/community-ui/assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"subscribe.subscribe()",
+			"col--md8 noPaddingLeft",
+			"button--vote--points",
+			"cmuMessage__controls",
+			"__num",
+			"$paginationHeight",
+			"cmuPagination__first",
+			"button--thin",
+			"cmuThread__controls",
+			"cmuProfile__story",
+			"cmuProfile__avatar",
+			"cmuProfile__points cmuProfile__section clearfix",
+			"cmuProfile__header__username",
+			"cmuProfile__rank",
+			"cmuProfile__pointsTable",
+			"cmuProfile__sidebar",
+			"cmuProfile__header__username",
+			"cmuProfile__rank",
+			"cmuProfile__loadMore",
+			"cmuProfile__loadMore button",
+			"cmuComments__header",
+			"submittingComment",
+			"cmuTextEditor__floatContainer",
+			"cmuTextEditor",
+			"cmuComments__header",
+			"cmuComments__header ng-binding",
+			"cmuTextEditor__title col--md12",
+			"cmuStories__story__body__main col--lg9",
+			"cmuThreadlist__row",
+			"__points",
+			"cmuUserbadge__points",
+			"%type-base",
+			"__account",
+			"__des",
+			"%type-info",
+			"cmuUserbadge__stat",
+			"__kudos",
+			"cmuUserbadge__points",
+			"cmuTextEditor--formContainer cmuTextEditor--comments row",
+			"CodeMirror cm-s-paper CodeMirror-wrap",
+			"cmuTextEditor__container",
+			"cmuStoryDetail",
+			"cmuStoryDetail__container",
+			"cmuThread__controls",
+			"cmuMessage__reply",
+			"cmuStories__story__controlsTop",
+			"cmuMessage__controls",
+			"button--vote--kudo",
+			"button",
+			"button button--vote",
+			"button button--vote button--vote--kudo",
+			"cmuUserbadge__userText",
+			"cmuStory__sidebar__item",
+			"cmuThread__subject__subtitle",
+			".cmuStories",
+			".cmuStories h3",
+			"cmuStories h3",
+			"button, .button",
+			"cmuCollapser__header--light",
+			"cmuCollapser__header cmuCollapser__header--light",
+			"cmuStoriesNew__form--fileUpload",
+			"cmuStoriesNew__form--url",
+			"cmuStoriesNew__form--products",
+			"photosAndVideos",
+			"cmuStoriesNew__form col--md4",
+			".cmuPulse__counter",
+			"cmuPulse__counter cmuPulse",
+			"cmuPulse__counter cmuPulse__total col--md3",
+			"cmuThreadlist__topic__title",
+			"cmuFeed__title",
+			"timeline__title",
+			"cmuCollapser",
+			"border-color",
+			"cmuCollapser",
+			"style-tag",
+			"cmuProductTag",
+			"collapseSubtle",
+			"cmuCollapser__header",
+			"cmuFeed__content",
+			".cmuPulse",
+			"cmuPulse col--md12",
+			"cmuHints--mainNav",
+			"$cmu-vertical-rhythm",
+			".cmuDiscussionsHeader",
+			"$cmu-base-line-height",
+			".cmuBanner__close",
+			"cmuBanner container",
+			"cmuBanner__container",
+			".cmu-width",
+			"cmuBanner",
+			"button--wider",
+			"cmuFeed__loadMore",
+			"cmuFeed__item",
+			"cmuFeed__item ng-isolate-scope",
+			"%style-stat",
+			"cmuFeed__stat",
+			".cmuTag",
+			"cmuStoryItem__desc",
+			"cmuFeed__location",
+			"cmuStoryItem__desc, .cmuTag",
+			"cmuStoryItem__desc",
+			"cmuStoryItem_desc",
+			"cmuFeed__update col--md4 noPaddingLeft",
+			"icon cmuIcon-refresh cmuIcon--tiny",
+			"cmuSidebar__container",
+			"$cmu-color-dkblue",
+			"button--naked",
+			"button--solid",
+			"cmuDiscussionsHeader"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mosina.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"directory.rou",
+				"app/areas/directory/config/directory.routes.js"
+			],
+			[
+				"cmutext",
+				"assets/sass/cmu/cmuTextEditor/modules/_cmuTextEditorModule.scss"
+			],
+			[
+				"directive",
+				"locale/en/directives.json"
+			],
+			[
+				"cmutoo",
+				"assets/sass/cmu/cmuTooltipster/modules/_cmuTooltipsterModule.scss"
+			],
+			[
+				"usertooltip.html",
+				"app/shared/partials/usertooltip.html"
+			],
+			[
+				"cmuuserbadge",
+				"assets/sass/cmu/cmuUserbadge/modules/_cmuUserbadgeModule.scss"
+			],
+			[
+				"userbad",
+				"app/shared/directives/userbadge/userbadge.html"
+			],
+			[
+				"cmustor",
+				"assets/sass/cmu/cmuStories/modules/_cmuStoriesModule.scss"
+			],
+			[
+				"tex",
+				"app/shared/directives/texteditor/texteditor.html"
+			],
+			[
+				"reaction",
+				"app/shared/directives/reaction/reaction.js"
+			],
+			[
+				"cmucoll",
+				"assets/sass/cmu/cmuCollapser/modules/_cmuCollapserModule.scss"
+			],
+			[
+				"cmustoriesnew",
+				"assets/sass/cmu/cmuStories/modules/_cmuStoriesNewModule.scss"
+			],
+			[
+				"cmustories",
+				"assets/sass/cmu/cmuStories/modules/_cmuStoriesModule.scss"
+			],
+			[
+				"cmucolor",
+				"assets/sass/cmu/cmuDefaults/settings/_cmuColors.scss"
+			],
+			[
+				"timeline",
+				"app/shared/directives/timeline/timeline.html"
+			],
+			[
+				"fee",
+				"app/areas/directory/feed/feed.html"
+			],
+			[
+				"feedcontent",
+				"app/shared/directives/feedcontent/feedcontent.html"
+			],
+			[
+				"_cmubutt",
+				"assets/sass/cmu/cmuButtons/modules/_cmuButtonsModule.scss"
+			],
+			[
+				"_cmubu",
+				".sass-cache/b67e6e4d6295e0530704758e75193a864e7e49e7/_cmuButtonsModule.scssc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
